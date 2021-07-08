@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/pratishtha-s-a0a812203)
 
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on **Open Source Projects**
 - 🌱 I’m currently learning **Machine Learning**
