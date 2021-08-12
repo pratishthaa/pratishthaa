@@ -61,6 +61,8 @@ About me:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratishthaa&show_icons=true&locale=en&layout=compact" alt="pratishthaa" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishthaa&show_icons=true&locale=en" alt="pratishthaa" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratishthaa&" alt="pratishthaa" /></p>
